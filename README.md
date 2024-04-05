@@ -1,1 +1,1 @@
-# FashionGAN
+# Fashion-GAN
